@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hello, I'm Mai Van Kien</h1>
 
-<p align="center">
-  <img src="https://u8views.com/api/v1/github/profiles/98756240/views/day-week-month-total-count.svg" alt="Mai Van Kien profile views" />
-</p>
-
-<h2 align="center">About Me</h2>
-
 <ul>
   <li>A software engineer specializing in backend development, focusing on creating and maintaining server-side applications and systems.</li>
   <li><strong>Specialized in:</strong> Node.js (NestJS, Express.js), Python (FastAPI), MySQL, MongoDB, Redis</li>
@@ -15,6 +9,9 @@
   <li><strong>Goal:</strong> Continuously improving to deliver robust and efficient backend solutions</li>
 </ul>
 
+<p align="center">
+  <img src="https://u8views.com/api/v1/github/profiles/98756240/views/day-week-month-total-count.svg" alt="Mai Van Kien profile views" />
+</p>
 
 <div align=center>
   <a href="#" title="Maivankien">
